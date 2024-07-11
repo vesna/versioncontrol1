@@ -1,5 +1,4 @@
-# versioncontrol1
-# GeekBrainsExamination001
+new
 *Итоговая контрольная работа по основному блоку*
 
 Урок 1. Контрольная работа
